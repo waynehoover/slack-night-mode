@@ -856,7 +856,7 @@
   .msg_right_link { color: #90939b; }
   .message_location_label { color: #949494; }
   .p-flexpane_header { background: #2a2f39; border-color: #6b6f79; color: #d3dae3; }
-  #client_body:not(.onboarding):not(.feature_global_nav_layout):before { background: #2a2f39; }
+  #client_body:not(.onboarding):not(.feature_global_nav_layout):before { display: none; }
   #details_tab .heading { background: #353944; }
   #details_tab .heading a.close_flexpane { color: #90939b; }
   #details_tab .heading a.close_flexpane:hover { color: #90939b; }

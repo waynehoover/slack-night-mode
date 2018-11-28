@@ -1711,7 +1711,7 @@ ts-thread .new_reply_indicator .blue_dot { color: #bf360c; }
 
 .p-flexpane_header { background: #2a2f39; border-color: #6b6f79; color: #d3dae3; }
 
-#client_body:not(.onboarding):not(.feature_global_nav_layout):before { background: #2a2f39; }
+#client_body:not(.onboarding):not(.feature_global_nav_layout):before { display: none; }
 
 #details_tab .heading { background: #353944; }
 
